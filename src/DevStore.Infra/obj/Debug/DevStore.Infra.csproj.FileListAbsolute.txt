@@ -1,0 +1,12 @@
+c:\users\andrebaltieri\documents\visual studio 2013\Projects\DevStore\DevStore.Infra\bin\Debug\DevStore.Infra.dll.config
+c:\users\andrebaltieri\documents\visual studio 2013\Projects\DevStore\DevStore.Infra\bin\Debug\DevStore.Infra.dll
+c:\users\andrebaltieri\documents\visual studio 2013\Projects\DevStore\DevStore.Infra\bin\Debug\DevStore.Infra.pdb
+c:\users\andrebaltieri\documents\visual studio 2013\Projects\DevStore\DevStore.Infra\bin\Debug\DevStore.Domain.dll
+c:\users\andrebaltieri\documents\visual studio 2013\Projects\DevStore\DevStore.Infra\bin\Debug\EntityFramework.dll
+c:\users\andrebaltieri\documents\visual studio 2013\Projects\DevStore\DevStore.Infra\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\andrebaltieri\documents\visual studio 2013\Projects\DevStore\DevStore.Infra\bin\Debug\DevStore.Domain.pdb
+c:\users\andrebaltieri\documents\visual studio 2013\Projects\DevStore\DevStore.Infra\bin\Debug\EntityFramework.xml
+c:\users\andrebaltieri\documents\visual studio 2013\Projects\DevStore\DevStore.Infra\bin\Debug\EntityFramework.SqlServer.xml
+c:\users\andrebaltieri\documents\visual studio 2013\Projects\DevStore\DevStore.Infra\obj\Debug\DevStore.Infra.csprojResolveAssemblyReference.cache
+c:\users\andrebaltieri\documents\visual studio 2013\Projects\DevStore\DevStore.Infra\obj\Debug\DevStore.Infra.dll
+c:\users\andrebaltieri\documents\visual studio 2013\Projects\DevStore\DevStore.Infra\obj\Debug\DevStore.Infra.pdb
