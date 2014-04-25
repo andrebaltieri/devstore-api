@@ -2,3 +2,7 @@ c:\users\andrebaltieri\documents\visual studio 2013\Projects\DevStore\DevStore.D
 c:\users\andrebaltieri\documents\visual studio 2013\Projects\DevStore\DevStore.Domain\bin\Debug\DevStore.Domain.pdb
 c:\users\andrebaltieri\documents\visual studio 2013\Projects\DevStore\DevStore.Domain\obj\Debug\DevStore.Domain.dll
 c:\users\andrebaltieri\documents\visual studio 2013\Projects\DevStore\DevStore.Domain\obj\Debug\DevStore.Domain.pdb
+C:\development\repository\andrebaltieri\devstore-api\src\DevStore.Domain\bin\Debug\DevStore.Domain.dll
+C:\development\repository\andrebaltieri\devstore-api\src\DevStore.Domain\bin\Debug\DevStore.Domain.pdb
+C:\development\repository\andrebaltieri\devstore-api\src\DevStore.Domain\obj\Debug\DevStore.Domain.dll
+C:\development\repository\andrebaltieri\devstore-api\src\DevStore.Domain\obj\Debug\DevStore.Domain.pdb

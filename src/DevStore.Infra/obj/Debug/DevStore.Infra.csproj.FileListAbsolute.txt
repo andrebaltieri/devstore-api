@@ -22,3 +22,15 @@ C:\development\repository\andrebaltieri\pessoal\devstore-api\src\DevStore.Infra\
 C:\development\repository\andrebaltieri\pessoal\devstore-api\src\DevStore.Infra\obj\Debug\DevStore.Infra.csprojResolveAssemblyReference.cache
 C:\development\repository\andrebaltieri\pessoal\devstore-api\src\DevStore.Infra\obj\Debug\DevStore.Infra.dll
 C:\development\repository\andrebaltieri\pessoal\devstore-api\src\DevStore.Infra\obj\Debug\DevStore.Infra.pdb
+C:\development\repository\andrebaltieri\devstore-api\src\DevStore.Infra\bin\Debug\DevStore.Infra.dll.config
+C:\development\repository\andrebaltieri\devstore-api\src\DevStore.Infra\bin\Debug\DevStore.Infra.dll
+C:\development\repository\andrebaltieri\devstore-api\src\DevStore.Infra\bin\Debug\DevStore.Infra.pdb
+C:\development\repository\andrebaltieri\devstore-api\src\DevStore.Infra\bin\Debug\DevStore.Domain.dll
+C:\development\repository\andrebaltieri\devstore-api\src\DevStore.Infra\bin\Debug\EntityFramework.dll
+C:\development\repository\andrebaltieri\devstore-api\src\DevStore.Infra\bin\Debug\EntityFramework.SqlServer.dll
+C:\development\repository\andrebaltieri\devstore-api\src\DevStore.Infra\bin\Debug\DevStore.Domain.pdb
+C:\development\repository\andrebaltieri\devstore-api\src\DevStore.Infra\bin\Debug\EntityFramework.xml
+C:\development\repository\andrebaltieri\devstore-api\src\DevStore.Infra\bin\Debug\EntityFramework.SqlServer.xml
+C:\development\repository\andrebaltieri\devstore-api\src\DevStore.Infra\obj\Debug\DevStore.Infra.csprojResolveAssemblyReference.cache
+C:\development\repository\andrebaltieri\devstore-api\src\DevStore.Infra\obj\Debug\DevStore.Infra.dll
+C:\development\repository\andrebaltieri\devstore-api\src\DevStore.Infra\obj\Debug\DevStore.Infra.pdb

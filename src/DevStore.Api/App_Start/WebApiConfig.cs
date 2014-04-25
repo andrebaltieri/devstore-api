@@ -19,6 +19,8 @@ namespace DevStore.Api
             settings.ContractResolver = new CamelCasePropertyNamesContractResolver();
             config.EnableCors();
 
+            // Install-Package Microsoft.AspNet.WebApi.Cors
+
             // Web API routes
             config.MapHttpAttributeRoutes();
 
